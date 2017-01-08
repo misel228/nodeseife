@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#configs
+config/default.json
+config/production.json
+
+#dist folder is compiled by webpack
+dist
